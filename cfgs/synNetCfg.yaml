@@ -1,0 +1,19 @@
+lr: 0.00001
+epochs: 50
+batch_size: 4
+lesion_size: 32
+scale: 1.0
+dataSet: 'IDRiD'
+semantics: 'Optic_Disc'
+unet_path: "/weight/resnet50-19c8e357.pth"
+disease: 'Haemorrhages'
+
+max_lesions: 3
+augment_mode: 'top'
+aug_prob: 2.0
+
+lesion_knowledge_path: "/lesion.json"
+image_knowledge_path: "/image.json"
+csv_path: "/dataSet/IDRiD/"
+output_path: "/output"
+dataSet_mode: 'single'

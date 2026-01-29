@@ -1,0 +1,21 @@
+lr: 1e-5
+epochs: 50
+batch_size: 2
+lesion_size: 32
+scale: 1.0
+dataSet: 'IDRiD'
+semantics: 'Optic_Disc'
+disease: 'Haemorrhages'
+
+classes: 1
+max_lesions: 3
+augment_mode: 'top'
+dataSet_mode: 'base'
+aug_prob: 2.0
+
+vit_path: "/weight/imagenet21k+imagenet2012_ViT-B_16.pth"
+cnn_path: "/weight/resnet50-19c8e357.pth"
+
+lesion_knowledge_path: "/lesion.json"
+csv_path: "/dataSet/IDRiD/trainValTest/"
+output_path: "/output/extractor/"
