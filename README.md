@@ -4,10 +4,10 @@
 <img src="./image/down.png" width="1376"  alt="upsteam">
 
 ## Table of Contents
-- [Install environment](#Install environment)
-- [Data preparation](#Data-preparation)
-- [Training parameters](#Training parameters)
-- [Usage](#Usage)
+- [Install environment]
+- [Data preparation]
+- [Training parameters]
+- [Usage]
 
 ### 🔧Install environment
 1. Create environment with conda:
