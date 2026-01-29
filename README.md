@@ -1,7 +1,7 @@
 ## G2L-SimR: Global-to-Local Similarity-Ranked Contrastive Learning for Retinal Lesion Segmentation
 
-<img src="./image/upsteam.png" width="1376"  alt="upsteam">
-<img src="./image/down.png" width="1376"  alt="upsteam">
+<!-- <img src="./image/upsteam.png" width="1376"  alt="upsteam">
+<img src="./image/down.png" width="1376"  alt="upsteam"> -->
 
 ## Table of Contents
 - [Install environment](#install-environment)
