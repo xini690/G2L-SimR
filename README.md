@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/24927293/README.md)
 ## G2L-SimR: Global-to-Local Similarity-Ranked Contrastive Learning for Retinal Lesion Segmentation
 
 <img src="./image/up.png" width="1376"  alt="upsteam">
